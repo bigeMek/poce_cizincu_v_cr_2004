@@ -1,4 +1,4 @@
-**Main branch je pocet cizincu_v_cr_2004.ipynb**
+**Main branch je pocet_cizincu_v_cr_2004.ipynb**
 
 pouzite knihovny:
 pandas as pd,
